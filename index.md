@@ -4,10 +4,10 @@
   <img src="https://emoji.dutl.uk/👋" width="30">
 </h1>
 <p align="center">
-  <a href="https://github.com/yourname?tab=repositories">
+  <a href="https://github.com/augs01">
     <img src="https://img.shields.io/badge/Explore_My_World-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://gist.github.com/yourname">
+  <a href="https://gist.github.com/augs01">
     <img src="https://img.shields.io/badge/My_Code_Snippets-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
