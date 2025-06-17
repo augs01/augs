@@ -1,2 +1,16 @@
-# omycake开源地址：https://github.com/NewCoder798/omycake/edit
-该项目主要功能模块分为首页、精选推荐、上传菜谱、发布以及查看动态、在线查询菜谱、个人中心，是一个专门教用户做甜品的网站。用户能够轻松自定义菜谱、发布动态、浏览菜谱等，页面采用Html5 ,CSS3, JQuery,ajax等技术，有良好的人机交互，很好的实现了发布菜谱、搜索菜谱、查看好友动态等重要功能。
+<h1 align="center">✨ Project Name ✨</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="version">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
+  <img src="https://img.shields.io/github/last-commit/yourname/repo" alt="last-commit">
+</p>
+<p align="center">🚀 简洁描述项目的核心价值（例如：一个轻量级任务管理工具）</p>
+
+---
+
+## 📌 核心功能
+- ✅ **任务管理**：创建/删除/标记任务 [1](@ref)
+- 🌈 **多主题切换**：支持深色/浅色模式
+- 🔒 **数据加密**：本地存储敏感信息（示例代码）：
+  ```javascript
+  const encrypt = (data) => btoa(JSON.stringify(data));
