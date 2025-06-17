@@ -1,10 +1,10 @@
-<h1 align="center">✨ Project Name ✨</h1>
+<h1 align="center">✨ index ✨</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="version">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
   <img src="https://img.shields.io/github/last-commit/yourname/repo" alt="last-commit">
 </p>
-<p align="center">🚀 简洁描述项目的核心价值（例如：一个轻量级任务管理工具）</p>
+<p align="center">🚀 一个没用的首页</p>
 
 ---
 
