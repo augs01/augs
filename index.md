@@ -1,16 +1,21 @@
-<h1 align="center">✨ index ✨</h1>
+<h1 align="center">
+  <img src="https://emoji.dutl.uk/🖥️" width="30"> 
+  Welcome to My Digital Space! 
+  <img src="https://emoji.dutl.uk/👋" width="30">
+</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="version">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
-  <img src="https://img.shields.io/github/last-commit/yourname/repo" alt="last-commit">
+  <a href="https://github.com/yourname?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_World-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://gist.github.com/yourname">
+    <img src="https://img.shields.io/badge/My_Code_Snippets-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
-<p align="center">🚀 一个没用的首页</p>
 
 ---
 
-## 📌 核心功能
-- ✅ **任务管理**：创建/删除/标记任务 [1](@ref)
-- 🌈 **多主题切换**：支持深色/浅色模式
-- 🔒 **数据加密**：本地存储敏感信息（示例代码）：
-  ```javascript
-  const encrypt = (data) => btoa(JSON.stringify(data));
+### 🌈 About Me
+```diff
++ 前端魔法师 | 开源爱好者 | 咖啡因驱动型开发者
+! 热爱将复杂问题转化为优雅代码的视觉艺术家
+# 当前正在探索：Web3.0交互设计 & 动效引擎开发
